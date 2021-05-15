@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "YCoDNzZTLENtvmCVDzqB50AfSFPzcOW70ENrfhd4zeWoRl4fjBSNbbheAPA7NoTDWwXgOC9mFBmbqnYt8oRZGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\STRIDER\\Desktop\\projects\\C#\\Interloper\\Interloper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\STRIDER\\.nuget\\packages\\csfml\\2.5.0\\csfml.2.5.0.nupkg.sha512",
+    "C:\\Users\\STRIDER\\.nuget\\packages\\sfml.audio\\2.5.0\\sfml.audio.2.5.0.nupkg.sha512",
+    "C:\\Users\\STRIDER\\.nuget\\packages\\sfml.graphics\\2.5.0\\sfml.graphics.2.5.0.nupkg.sha512",
+    "C:\\Users\\STRIDER\\.nuget\\packages\\sfml.net\\2.5.0\\sfml.net.2.5.0.nupkg.sha512",
+    "C:\\Users\\STRIDER\\.nuget\\packages\\sfml.system\\2.5.0\\sfml.system.2.5.0.nupkg.sha512",
+    "C:\\Users\\STRIDER\\.nuget\\packages\\sfml.window\\2.5.0\\sfml.window.2.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
